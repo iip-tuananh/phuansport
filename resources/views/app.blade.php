@@ -20,7 +20,7 @@
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <script>
-      window.__ENV__ = window.__ENV || {}; __ENV__.link ='http://phuansport.com/';
+      window.__ENV__ = window.__ENV || {}; __ENV__.link ='https://phuansport.com/';
       window.Laravel = {!! 
           json_encode([
               'csrf_token' => csrf_token(),
