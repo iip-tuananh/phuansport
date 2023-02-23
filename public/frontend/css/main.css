@@ -20,6 +20,21 @@
     top: 5px;
     right: 10px;
 }
+.main-footer{
+    position: relative !important;
+}
+.main-footer::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: -100px;
+    left: 0px;
+    height: 100px;
+    z-index: 10;
+    background-image: url(../img/bg_menu.png);
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+}
 .label_product span {
     position: relative;
     display: inline-block;

@@ -126,7 +126,7 @@ input:focus {outline: none;}
 /*-------------------------------------------*/
 /* 2.1 - TopBar */
 .promo-bar {
-	background: #029b11;
+	background: #c10e1b;
 	font-size: 12px;
 	width: 100%;
 	-webkit-transition: 0.3s;
@@ -366,7 +366,7 @@ input:focus {outline: none;}
 /*-------------------------------------------*/
 /* 3. INDEX */
 /*-------------------------------------------*/
-.main-index  {margin-bottom: 40px;}
+.main-index  {margin-bottom: 22px;}
 /* 3.1 - Slider */
 #home-slider {position: relative;}
 #home-slider .owl-nav {position: absolute;bottom:0;right:0;display:block;}
